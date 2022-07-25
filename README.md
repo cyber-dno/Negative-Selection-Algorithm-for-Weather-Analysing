@@ -1,4 +1,4 @@
-# Nehative-Selection-Algarithm-for-Weather-Analysing
+# Negative-Selection-Algorithm-for-Weather-Analysing
 
 ### Алгоритм отрицательного отбора для обнаружения аномалий погоды
 
